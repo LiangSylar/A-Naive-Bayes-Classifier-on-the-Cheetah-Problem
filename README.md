@@ -46,5 +46,4 @@ In practice, features that has a "diff" value ranking from 11 to 25 give best es
 
 ##### Figure 3. Test results using best features with "diff" ranking from 11~18. Error rate: 0.1031.
 
-
-
+Figure 3 is the result of ML-BDR Gaussian classifier. We also try the full Bayes framework, specifically the Bayes-MAP-BDR method. It turns out that the segmentation results do not vary much. 
