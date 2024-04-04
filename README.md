@@ -1,4 +1,4 @@
-# A-Silly-Bayes-Classifier-on-the-Cheetah-Problem
+# A Bayes-Classifier-on-the-Cheetah-Problem
 This is a mini-classification task on studying the Maximum a Posteriori decision rule.
 
 ## Motivation
